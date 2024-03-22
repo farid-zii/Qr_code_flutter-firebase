@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288946561643",
+    "project_id": "qrcode-flutter-getx",
+    "storage_bucket": "qrcode-flutter-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288946561643:android:0b1bfac1a55d7e8e96472e",
+        "android_client_info": {
+          "package_name": "com.pandaproject.qr_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLNMtLklNZ0nF6kWSTWv5M0VHl4lF_U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
